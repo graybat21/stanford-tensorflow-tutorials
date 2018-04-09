@@ -2,6 +2,9 @@
 [![Join the https://gitter.im/stanford-tensorflow-tutorials](https://badges.gitter.im/tflearn/tflearn.svg)](https://gitter.im/stanford-tensorflow-tutorials)
 
 # stanford-tensorflow-tutorials
+
+모두연 Flow me to the moon 참고자료
+
 This repository contains code examples for the course CS 20: TensorFlow for Deep Learning Research. <br>
 It will be updated as the class progresses. <br>
 Detailed syllabus and lecture notes can be found [here](http://cs20.stanford.edu).<br>
